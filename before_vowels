@@ -1,0 +1,98 @@
+a_beforen
+a_beforen
+o_beforen
+ɔ_beforen
+e_beforen
+ɛ_beforen
+i_beforen
+ɪ_beforen
+ə_beforen
+u_beforen
+ʊ_beforen
+$a_beforen
+$o_beforen
+$ɔ_beforen
+$e_beforen
+$ɛ_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+$V_before $"$V"_beforen
+'a'_before ' a o e ɛ i ɪ u'
+
+'o'_before '  a o e ɛ i ɪ'
+
+'ɔ'_before ' '
+
+'e'_before '  a o i'
+
+'ɛ'_before '  a ɛ'
+
+'i'_before '  a o ɛ i'
+
+'ɪ'_before '  e'
+
+'ə'_before ' '
+
+'u'_before '  a o'
+
+'ʊ'_before ' '
+
+'a'_before ' a o e ɛ i ɪ u'
+
+'o'_before '  a o e ɛ i ɪ'
+
+'ɔ'_before ' '
+
+'e'_before '  a o i'
+
+'ɛ'_before '  a ɛ'
+
+'i'_before '  a o ɛ i'
+
+'ɪ'_before '  e'
+
+'ə'_before ' '
+
+'u'_before '  a o'
+
+'ʊ'_before ' '
+
+'a'_before ' a o e ɛ i ɪ u'
+'o'_before '  a o e ɛ i ɪ'
+'ɔ'_before ' '
+'e'_before '  a o i'
+'ɛ'_before '  a ɛ'
+'i'_before '  a o ɛ i'
+'ɪ'_before '  e'
+'ə'_before ' '
+'u'_before '  a o'
+'ʊ'_before ' '
+----------------------
+'a'_before ' a o e ɛ i ɪ u'
+'o'_before '  a o e ɛ i ɪ'
+'ɔ'_before ' '
+'e'_before '  a o i'
+'ɛ'_before '  a ɛ'
+'i'_before '  a o ɛ i'
+'ɪ'_before '  e'
+'ə'_before ' '
+'u'_before '  a o'
+'ʊ'_before ' '
+----------------------
+'a'_before ' a o e ɛ i ɪ u'
+'o'_before ' a o e ɛ i ɪ'
+'ɔ'_before ''
+'e'_before ' a o i'
+'ɛ'_before ' a ɛ'
+'i'_before ' a o ɛ i'
+'ɪ'_before ' e'
+'ə'_before ''
+'u'_before ' a o'
+'ʊ'_before ''

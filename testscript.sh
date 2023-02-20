@@ -1,0 +1,2 @@
+testvar='test'
+echo $testvar
