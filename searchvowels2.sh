@@ -5,7 +5,7 @@ do
 		num=$(grep -c "$V[^aoɔeɛiɪəuʊ ]*$S" verbdata)
 		if [ $num -gt 0 ]
 		then
-			echo "vowel $S after $V $num times"
+			echo "vowel $S after $V $num times" > vowelsbefore
 		fi
 	done
 done
